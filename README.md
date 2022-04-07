@@ -1,2 +1,2 @@
 # Kava
-A quickly abandoned attempt to write out Java and spit out KSP (Kontakt Scripting Language).
+A quickly abandoned attempt to write Java and spit out KSP (Kontakt Scripting Language).
